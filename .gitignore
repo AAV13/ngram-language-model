@@ -1,0 +1,9 @@
+#Python
+venv/
+__pycache__/
+*.pyc
+#Saved models
+*.pkl
+#IDE/OS files
+.DS_Store
+.vscode/
