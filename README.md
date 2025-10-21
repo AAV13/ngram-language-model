@@ -35,8 +35,7 @@ ngram-language-model/
 │   ├── train.py              #Script to train and save models
 │   ├── evaluate.py           #Script to evaluate models and get perplexity
 │   └── generate.py           #Script for text generation
-├── notebooks/
-│   └── analysis.ipynb        #Exploratory Data Analysis (EDA) of the dataset
+├── EDA.ipynb                 #Exploratory Data Analysis (EDA) of the dataset
 ├── README.md                 #This file
 └── Report.pdf                #The final project report and analysis
 ```
